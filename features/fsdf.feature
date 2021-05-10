@@ -1,0 +1,1 @@
+Feature: OrangeHRM Logo
