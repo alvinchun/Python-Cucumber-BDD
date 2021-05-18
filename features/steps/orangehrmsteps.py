@@ -19,4 +19,3 @@ def verifyLogo(context):
 def step_impl(context):
     context.driver.close()
 
-

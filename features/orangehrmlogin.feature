@@ -20,4 +20,3 @@ Feature: OrangeHRM Logo
             | admin123 | admin |
             | adminxyz | admin123 |
             | admin | adminxyz |
-
